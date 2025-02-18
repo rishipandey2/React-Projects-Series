@@ -1,4 +1,4 @@
-# React-Projects
+# Basic React-Projects
 
 Welcome to the **React-Projects-Series** repository! 🎉 This repository contains a collection of simple React projects, demonstrating various concepts and features of React. Each project is structured in its own folder, making it easy to explore and understand.
 
